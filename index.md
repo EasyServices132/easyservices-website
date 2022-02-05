@@ -26,7 +26,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Nasze gry (PC):
 
-| Nazwa     | Oficjalna Strona Gry     |
+| Nazwa     | Oficjalna Strona Gry     | Status     |   
 | --------- | ------------------------ |
-| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   |
-| Untitled Goose Game  | [https://goose.game](https://goose.game)     |
+| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!    |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)     | Do Pobrania!    |
