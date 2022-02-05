@@ -28,5 +28,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 | Nazwa     | Oficjalna Strona Gry     | Status     |   
 | --------- | ------------------------ |
-| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!    |
-| Untitled Goose Game  | [https://goose.game](https://goose.game)     | Do Pobrania!    |
+| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!  |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)     | Do Pobrania!  |
