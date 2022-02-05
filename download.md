@@ -2,11 +2,11 @@
 
 ## Nasze gry (PC):
 
-| Nazwa     | Oficjalna Strona Gry     | Status     |   
-| --------- | ------------------------ | ---------- |
-| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   |
-| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   |
-| BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   |
+| Nazwa     | Oficjalna Strona Gry     | Status     | Pobieranie     |
+| --------- | ------------------------ | ---------- | -------------- |
+| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   | [Pobierz](https://drive.google.com/drive/folders/1Ke-hi8h8996pzggToKCOYjaypNkuu4KF?usp=sharing)   |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   | [Pobierz](https://drive.google.com/drive/folders/170h5Eqhv0Bsr_xbLg6nMxQ4kJZg2IocF?usp=sharing)   |
+| BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   | Wkrótce!   |
 
 ## Nasze gry (PS3):
 
