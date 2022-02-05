@@ -55,7 +55,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 | Nazwa     | Oficjalna Strona Gry     | Status     | Pobieranie     |
 | --------- | ------------------------ | ---------- | -------------- |
 | Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   | [Pobierz](https://drive.google.com/drive/folders/1Ke-hi8h8996pzggToKCOYjaypNkuu4KF?usp=sharing)   |
-| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   | [Pobierz](https://drive.google.com/drive/folders/170h5Eqhv0Bsr_xbLg6nMxQ4kJZg2IocF?usp=sharing)   |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/tag/untagged-fcda3769c0fe25f4d3f7)   |
 | BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   | Wkrótce!   |
 
 ## Nasze gry (PS3):
