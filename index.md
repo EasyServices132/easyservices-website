@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 | Nazwa     | Oficjalna Strona Gry     | Status     |   
 | --------- | ------------------------ | ---------- |
 | Minecraft: Playstation®3 Edition  | Brak!   | Do Pobrania! (Tylko Dla Premium!)   |
+
+## Nasze gry (PS4):
+
+| Nazwa     | Oficjalna Strona Gry     | Status     |   
+| --------- | ------------------------ | ---------- |
+| Gry PS4 Wkrótce!  | Brak!   | Wkrótce!   |
+
