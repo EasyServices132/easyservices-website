@@ -38,7 +38,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Nasze gry (PS4):
 
-| Nazwa     | Oficjalna Strona Gry     | Status     |   
-| --------- | ------------------------ | ---------- |
-| Gry PS4 Wkrótce!  | Brak!   | Wkrótce!   |
-
+| Informacja     |   
+| --------- |
+| Gry PS4 Wkrótce!  |
