@@ -28,5 +28,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 | Nazwa     | Oficjalna Strona Gry     |
 | --------- | ------------------------ |
-| Pikuniku  | https://pikuniku.net/    |
-| Untitled Goose Game  | https://https://goose.game     |
+| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)     |
