@@ -22,8 +22,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasyServices132/easyservices-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
 ## Nasze gry (PC):
 
 | Nazwa     | Oficjalna Strona Gry     | Status     |   
@@ -31,3 +29,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 | Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   |
 | Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   |
 | BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   |
+
+## Nasze gry (PS3):
+
+| Nazwa     | Oficjalna Strona Gry     | Status     |   
+| --------- | ------------------------ | ---------- |
+| Minecraft: Playstation®3 Edition  | Brak!   | Do Pobrania!   |
