@@ -41,3 +41,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 | Informacja     |   
 | --------- |
 | Gry PS4 Wkrótce!  |
+
+## Nasze gry (TELEFON):
+
+| Informacja     |   
+| --------- |
+| Obecnie brak gier na telefon!  |
