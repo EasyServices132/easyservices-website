@@ -8,8 +8,8 @@ permalink: /download.html
 
 | Nazwa     | Oficjalna Strona Gry     | Status     | Pobieranie     |
 | --------- | ------------------------ | ---------- | -------------- |
-| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/tag/PCp)   |
-| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/tag/PCu)   |
+| Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/download/PCp/Pikuniku.zip)   |
+| Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/download/PCu/Untitled.Goose.Game.zip)   |
 | BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   | Wkrótce!   |
 
 ## Nasze gry (PS3):
