@@ -1,5 +1,4 @@
 ## [Easy Services](https://easyservices132.github.io/easyservices-website/) Witamy!
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Chcesz znaleźć pliki gier? wejdź tutaj (Gry na stronę internetową są dodawane 1-2 dni po dodaniu na serwer discord)
 
