@@ -14,7 +14,7 @@ Chcesz znaleźć pliki gier? wejdź tutaj (Gry na stronę internetową są dodaw
 | --------- | ------------------------ | ---------- |
 | Pikuniku  | [https://pikuniku.net](https://pikuniku.net)   | Do Pobrania!   |
 | Untitled Goose Game  | [https://goose.game](https://goose.game)   | Do Pobrania!   |
-| BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!   |
+| BeamNG.drive  | [https://www.beamng.com/game](https://www.beamng.com/game)   | Wkrótce!  |
 
 ## Nasze gry (PS3):
 
