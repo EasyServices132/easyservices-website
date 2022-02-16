@@ -1,7 +1,3 @@
----
-permalink: /download.html
----
-
 ## Easy Services Pobierz Gry Tutaj!!
 
 ## Nasze gry (PC):
