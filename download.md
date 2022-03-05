@@ -13,7 +13,7 @@
 | Nazwa     | Oficjalna Strona Gry     | Status     | Pobieranie     |
 | --------- | ------------------------ | ---------- | -------------- |
 | Minecraft: Playstation®3 Edition  | Brak!   | Do Pobrania! (Tylko Dla Premium!)   | Dostępne tylko na discordzie!   |
-| Adventure Time: Finn & Jake Investigations  | Brak!   | Do Pobrania! (Pre-Release)   | [Pobierz](https://github.com/EasyServices132/easyservices-website/releases/download/PS3a/Adventure.Time.-.Finn.Jake.Investigations.zip)  |
+| Adventure Time: Finn & Jake Investigations  | Brak!   | Do Pobrania!   | [Pobierz](https://drive.google.com/file/d/1Imtb_9qnhWDR_4opEO_HUMav9rDGDst6/view?usp=sharing)  |
 
 ## Nasze gry (PS4):
 
