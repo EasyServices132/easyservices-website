@@ -21,7 +21,7 @@ Chcesz znaleźć pliki gier? wejdź tutaj (Gry na stronę internetową są dodaw
 | Nazwa     | Oficjalna Strona Gry     | Status     |   
 | --------- | ------------------------ | ---------- |
 | Minecraft: Playstation®3 Edition  | Brak!   | Do Pobrania! (Tylko Dla Premium!)   |
-| Adventure Time: Finn & Jake Investigations  | Brak!   | Do Pobrania! (Pre-Release)   |
+| Adventure Time: Finn & Jake Investigations  | Brak!   | Do Pobrania!   |
 
 ## Nasze gry (PS4):
 
